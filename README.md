@@ -1,6 +1,6 @@
 # Mykyta Buria's Portfolio
 
-![Mykyta Buria's Logo] <img src="./images/logo-portofolio.svg" alt="Mykyta Buria's Logo" width="100"/>
+<img src="./images/logo-portofolio.svg" alt="Mykyta Buria's Logo" width="100"/>
 
 Welcome to my portfolio repository! This repo contains the source code and assets for my personal website, showcasing my work, skills, and experiences as a Web Developer and Designer.
 
